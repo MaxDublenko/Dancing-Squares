@@ -1,0 +1,64 @@
+body {
+  text-align: center;
+  background-color: white;
+}
+
+#container div {
+  width: 48px;
+  height: 48px;
+  border: 1px solid black;
+  float: left;
+}
+
+.red {
+  background-color: red;
+}
+
+.orange {
+  background-color: orange;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.indigo {
+  background-color: indigo;
+}
+
+.violet {
+  background-color: violet;
+}
+
+.black {
+  background-color: black;
+}
+
+.white {
+  background-color: white;
+}
+
+.brown {
+  background-color: brown;
+}
+
+.grey {
+  background-color: grey;
+}
+
+#container {
+  width: 500px;
+  margin: auto;
+}
+
+.input-container {
+  margin-top: 500px;
+}
